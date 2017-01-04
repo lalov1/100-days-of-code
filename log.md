@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 1, Tuesday
+### Day 1: January 3, Tuesday
 
 **Today's Progress**: Working on the Twitch project in FreeCodeCamp.
 
