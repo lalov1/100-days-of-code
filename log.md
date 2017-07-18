@@ -1,20 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 2: January 4, Wednesday
+### Day 1: July 17, Monday
 
-**Today's Progress**: Still working on the Twitch project in FreeCodeCamp.
+**Today's Progress**: Working on the Tic Tac Toe project for FreeCodeCamp.
 
-**Thoughts** Finished the CSS portion and moved on to the Javascript portion. Trying to do this lesson with just Vanilla JS, so it is taking me a little longer than expected because I relied on jQuery for so long. 
-
-**Link(s) to work**
-1. [My Twitch Project](https://codepen.io/lalov1/pen/bZjGvA)
-
-
-### Day 1: January 3, Tuesday
-
-**Today's Progress**: Working on the Twitch project in FreeCodeCamp.
-
-**Thoughts** Mostly working on the CSS right now.
+**Thoughts** I think I finished the CSS portion of the project.
 
 **Link(s) to work**
-1. [My Twitch Project](https://codepen.io/lalov1/pen/bZjGvA)
+1. [My Tic Tac Toe Project](https://codepen.io/lalov1/pen/81fc81c83a72c3b8fdb55838a9e03e98?editors=1100)
+
+~~### Day 2: January 4, Wednesday~~
+
+~~**Today's Progress**: Still working on the Twitch project in FreeCodeCamp.~~
+
+~~**Thoughts** Finished the CSS portion and moved on to the Javascript portion. Trying to do this lesson with just Vanilla JS, so it is taking me a little longer than expected because I relied on jQuery for so long. ~~
+
+~~**Link(s) to work**~~
+~~1. [My Twitch Project](https://codepen.io/lalov1/pen/bZjGvA)~~
+
+~~### Day 1: January 3, Tuesday~~
+
+~~**Today's Progress**: Working on the Twitch project in FreeCodeCamp.~~
+
+~~**Thoughts** Mostly working on the CSS right now.~~
+
+~~**Link(s) to work**~~
+~~1. [My Twitch Project](https://codepen.io/lalov1/pen/bZjGvA)~~
