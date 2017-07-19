@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 2: July 18, Tuesday
+
+**Today's Progress**: Working on the Tic Tac Toe project for FreeCodeCamp.
+
+**Thoughts** I finished the CSS portion of the project and began working on the JS portion of the project.
+
+**Link(s) to work**
+1. [My Tic Tac Toe Project](https://codepen.io/lalov1/pen/81fc81c83a72c3b8fdb55838a9e03e98?editors=1100)
+
 ### Day 1: July 17, Monday
 
 **Today's Progress**: Working on the Tic Tac Toe project for FreeCodeCamp.
