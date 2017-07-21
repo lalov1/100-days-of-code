@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: July 20, Thursday 
+
+**Today's Progress**: Working on the Tic Tac Toe project for FreeCodeCamp.
+
+**Thoughts** Working on the JS portion of the project. Having some problems with getting things to appear on the board. 
+
+**Link(s) to work**
+1. [My Tic Tac Toe Project](https://codepen.io/lalov1/pen/81fc81c83a72c3b8fdb55838a9e03e98?editors=1100)
+
 ### Day 3: July 19, Wednesday 
 
 **Today's Progress**: Working on the Tic Tac Toe project for FreeCodeCamp.
