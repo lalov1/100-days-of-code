@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: July 21, Friday 
+
+**Today's Progress**: Took a break on the Tic Tac Toe project for FreeCodeCamp and started working on the Simon project
+
+**Thoughts** Working on the HTML and CSS portion and almost finished.  
+
+**Link(s) to work**
+1. [My Simon Project](https://codepen.io/lalov1/pen/MvgvxY?editors=1100)
+
 ### Day 4: July 20, Thursday 
 
 **Today's Progress**: Working on the Tic Tac Toe project for FreeCodeCamp.
