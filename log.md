@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: July 23, Saturday 
+
+**Today's Progress**: Working on the Tic Tac Toe project for FreeCodeCamp.
+
+**Thoughts** Working on the JS portion of the project. Working on the computer to output numbers and check values. 
+
+**Link(s) to work**
+1. [My Tic Tac Toe Project](https://codepen.io/lalov1/pen/81fc81c83a72c3b8fdb55838a9e03e98?editors=1100)
+
 ### Day 6: July 22, Saturday 
 
 **Today's Progress**: Working on the Tic Tac Toe project for FreeCodeCamp.
