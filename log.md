@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: July 26, Tuesday
+
+**Today's Progress**: Fixing the game end sequence. 
+
+**Thoughts** I think I only need to get the check working.
+
+**Link(s) to work**
+1. [My Tic Tac Toe Project](https://codepen.io/lalov1/pen/81fc81c83a72c3b8fdb55838a9e03e98?editors=1100)
+
 ### Day 8: July 24, Monday
 
 **Today's Progress**: I've created the random selection for the computer on the Tic Tac Toe project for FreeCodeCamp. 
