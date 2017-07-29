@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: July 28, Friday
+
+**Today's Progress**: Completed the project 
+
+**Thoughts** Finally finished, but need to work on the AI a little more. 
+
+**Link(s) to work**
+1. [My Tic Tac Toe Project](https://codepen.io/lalov1/pen/81fc81c83a72c3b8fdb55838a9e03e98?editors=1100)
+
 ### Day 11: July 27, Thursday
 
 **Today's Progress**: Fixing the game end sequence. 
