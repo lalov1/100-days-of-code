@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: July 31, Monday
+
+**Today's Progress**: Starting working on the Simon game
+
+**Thoughts** Still having some problems with the layout. Also, I missed two days in a row. :-(
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 12: July 28, Friday
 
 **Today's Progress**: Completed the project 
