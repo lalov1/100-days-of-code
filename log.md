@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 17: August 2, Wednesday
+
+**Today's Progress**: Getting the controls to work
+
+**Thoughts** Still having some problems with the layout. 
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
+### Day 16: August 1, Tuesday
+
+**Today's Progress**: Did a couple tutorials on PluralSight
+
+**Thoughts** Watched some videos on PluralSight
+
 ### Day 15: July 31, Monday
 
 **Today's Progress**: Starting working on the Simon game
