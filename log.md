@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 18: August 3, Thursday
+
+**Today's Progress**: Still working on the CSS portion of the game
+
+**Thoughts** Still having some problems with the layout. 
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 17: August 2, Wednesday
 
 **Today's Progress**: Getting the controls to work
