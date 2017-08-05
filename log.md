@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 19: August 4, Friday
+
+**Today's Progress**: Still working on the CSS portion of the game, butI'm getting close to being finished. 
+
+**Thoughts** Still having minor issues, but getting closer to finishing the CSS
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 18: August 3, Thursday
 
 **Today's Progress**: Still working on the CSS portion of the game
