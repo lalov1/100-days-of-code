@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 21: August 6, Sunday
+
+**Today's Progress**: Working on the JS part
+
+**Thoughts** It's coming along and I think I made good progress
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 20: August 5, Saturday
 
 **Today's Progress**: Finished the HTML and CSS portion. 
