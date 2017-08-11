@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 25: August 10, Thursday
+
+**Today's Progress**: Missed the last two days, but made a lot of progress today. 
+
+**Thoughts** Excited to get my front-end certificate
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
+### Day 22: August 7, Monday
+
+**Today's Progress**: Got a little stuck, but still on top of it
+
+**Thoughts** Didn't make much progress
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 21: August 6, Sunday
 
 **Today's Progress**: Working on the JS part
