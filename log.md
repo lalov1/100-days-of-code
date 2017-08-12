@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 26: August 11, Friday
+
+**Today's Progress**: Getting the buttons and random button to appear
+
+**Thoughts** A little improvement from yesterday, but not much.
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 25: August 10, Thursday
 
 **Today's Progress**: Missed the last two days, but made a lot of progress today. 
