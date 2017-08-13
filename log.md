@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 27: August 12, Saturday
+
+**Today's Progress**: Made a lot of changes to the button click code.
+
+**Thoughts** Getting closer, but still have the same issues. 
+
+**Link(s) to work**
+1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 26: August 11, Friday
 
 **Today's Progress**: Getting the buttons and random button to appear
