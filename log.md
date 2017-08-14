@@ -7,7 +7,7 @@
 **Thoughts** I feel like I didn't get a lot fixed.  
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 27: August 12, Saturday
 
@@ -16,7 +16,7 @@
 **Thoughts** Getting closer, but still have the same issues. 
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 26: August 11, Friday
 
@@ -25,7 +25,7 @@
 **Thoughts** A little improvement from yesterday, but not much.
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 25: August 10, Thursday
 
@@ -34,7 +34,7 @@
 **Thoughts** Excited to get my front-end certificate
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 22: August 7, Monday
 
@@ -43,7 +43,7 @@
 **Thoughts** Didn't make much progress
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 21: August 6, Sunday
 
@@ -52,7 +52,7 @@
 **Thoughts** It's coming along and I think I made good progress
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 20: August 5, Saturday
 
@@ -61,7 +61,7 @@
 **Thoughts** I'm ready to take on the JavaScript portion of this project. 
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 19: August 4, Friday
 
@@ -70,7 +70,7 @@
 **Thoughts** Still having minor issues, but getting closer to finishing the CSS
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 18: August 3, Thursday
 
@@ -79,7 +79,7 @@
 **Thoughts** Still having some problems with the layout. 
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 17: August 2, Wednesday
 
@@ -88,7 +88,7 @@
 **Thoughts** Still having some problems with the layout. 
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 16: August 1, Tuesday
 
@@ -103,7 +103,7 @@
 **Thoughts** Still having some problems with the layout. Also, I missed two days in a row. :-(
 
 **Link(s) to work**
-1. [My Simon Game]](https://codepen.io/lalov1/full/MvgvxY/)
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 12: July 28, Friday
 
