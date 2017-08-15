@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 29: August 14, Monday
+
+**Today's Progress**: Still working on the buttons blinking
+
+**Thoughts** I feel like I didn't get a lot fixed.  
+
+**Link(s) to work**
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
+
+### Day 28: August 13, Sunday
+
+**Today's Progress**: Still working on the buttons blinking
+
+**Thoughts** I feel like I didn't get a lot fixed.  
+
+**Link(s) to work**
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 28: August 13, Sunday
 
 **Today's Progress**: Still working on the buttons blinking
