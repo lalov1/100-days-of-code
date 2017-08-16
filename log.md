@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 30: August 15, Tuesday
+
+**Today's Progress**: Fianlly got the button clicking down. Now I just need to get the return false workingl.
+
+**Thoughts** I'm back on track and ready to finish.
+
+**Link(s) to work**
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 29: August 14, Monday
 
 **Today's Progress**: Still working on the buttons blinking
