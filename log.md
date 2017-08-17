@@ -1,8 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 31: August 16, Wednesday
+
+**Today's Progress**: Now I'm having trouble with it not turning a different color when it is the same color twice and when the user misses one it doesn't restart. 
+
+**Thoughts** I'm hoping to finish soon...
+
+**Link(s) to work**
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 30: August 15, Tuesday
 
-**Today's Progress**: Fianlly got the button clicking down. Now I just need to get the return false workingl.
+**Today's Progress**: Finally got the button clicking down. Now I just need to get the return false working.
 
 **Thoughts** I'm back on track and ready to finish.
 
