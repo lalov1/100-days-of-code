@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 32: August 18, Friday
+### Day 33: August 18, Friday
 
 **Today's Progress**: I'm still having trouble with it not turning a different color when it is the same color twice and when the user misses one it doesn't restart. 
 
@@ -28,15 +28,6 @@
 1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
 
 ### Day 29: August 14, Monday
-
-**Today's Progress**: Still working on the buttons blinking
-
-**Thoughts** I feel like I didn't get a lot fixed.  
-
-**Link(s) to work**
-1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
-
-### Day 28: August 13, Sunday
 
 **Today's Progress**: Still working on the buttons blinking
 
