@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 34: August 19, Saturday
+
+**Today's Progress**: I'm still having trouble with it not turning a different color when it is the same color twice and when the user misses one it doesn't restart. 
+
+**Thoughts** I'm hoping to finish soon...
+
+**Link(s) to work**
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 33: August 18, Friday
 
 **Today's Progress**: I'm still having trouble with it not turning a different color when it is the same color twice and when the user misses one it doesn't restart. 
