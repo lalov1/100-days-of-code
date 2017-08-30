@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 44: August 24, Tuesday
+
+**Today's Progress**: Fixed the errors I was having and only have one more. 
+
+**Thoughts** Missed a couple days, but back on track. 
+
+**Link(s) to work**
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 39: August 24, Thursday
 
 **Today's Progress**: I'm no longer stuck and think I made some traction. 
