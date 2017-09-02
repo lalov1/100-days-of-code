@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 47: September 1, Friday
+
+**Today's Progress**: Finished the project
+
+**Thoughts** Missed a couple days, but finished the project and received the front-end certificate. React here I come... 
+
+**Link(s) to work**
+1. [My Simon Game](https://codepen.io/lalov1/full/MvgvxY/)
+
 ### Day 44: August 24, Tuesday
 
 **Today's Progress**: Fixed the errors I was having and only have one more. 
