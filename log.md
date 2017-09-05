@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 50: September 4, Monday
+
+**Today's Progress**: Did some tutorials for React on PluralSight and Codecademy 
+
+**Thoughts** I'm trying to learn React for the next challenges for FreeCodeCamp
+
+### Day 49: September 3, Sunday
+
+**Today's Progress**: Did some tutorials for Ionic
+
+**Thoughts** I'm still torn if I should use Ionic or React Native 
+
+### Day 48: September 2, Saturday
+
+**Today's Progress**: Did a HackerRank test
+
+**Thoughts** I feel pretty confident on how I did. 
+
 ### Day 47: September 1, Friday
 
 **Today's Progress**: Finished the project
