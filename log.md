@@ -1,5 +1,44 @@
 # 100 Days Of Code - Log
 
+### Day 56: September 10, Sunday
+
+**Today's Progress**: Finished the course on PluralSight for React for Begineers and started the FreeCodeCamp project
+
+**Thoughts** I'm hoping React will be fun to learn.
+
+**Link(s) to work**
+1. [Markdown Viewer](https://codepen.io/lalov1/full/67c11a2e4030d395f6fc6ceba2b044a9/)
+
+### Day 55: September 9, Saturday
+
+**Today's Progress**: Did a tutorial for React on PluralSight 
+
+**Thoughts** I'm trying to learn React for the next challenges for FreeCodeCamp
+
+### Day 54: September 8, Friday
+
+**Today's Progress**: Did some tutorials for React on PluralSight and Codecademy
+
+**Thoughts** I'm trying to learn React for the next challenges for FreeCodeCamp
+
+### Day 53: September 7, Thursday
+
+**Today's Progress**: Did some tutorials for React on PluralSight and Codecademy
+
+**Thoughts** I'm trying to learn React for the next challenges for FreeCodeCamp
+
+### Day 52: September 6, Wednesday
+
+**Today's Progress**: Did some tutorials for React on PluralSight and Codecademy
+
+**Thoughts** I'm trying to learn React for the next challenges for FreeCodeCamp
+
+### Day 51: September 5, Tuesday
+
+**Today's Progress**: Did some tutorials for React on PluralSight and Codecademy
+
+**Thoughts** I'm trying to learn React for the next challenges for FreeCodeCamp
+
 ### Day 50: September 4, Monday
 
 **Today's Progress**: Did some tutorials for React on PluralSight and Codecademy 
